@@ -15,7 +15,7 @@ rohadjon meg a fa0/13 nem mukodik rajta :)
 
 Uj feladat:
 
-Router 1 Alapkonfig es router to a stick:
+Router 1 Alapkonfig es router on a stick:
 switch 1,2 (bal oldal also 2) alapkonfig es vlan:
 switch 3,4 (bal oldalt felso es jobb oldalt fejlso) alapkonfig es vlan:
 switch 5,6 (jobb oldal also 2) alapkonfig es vlan:
